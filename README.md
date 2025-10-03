@@ -1,1 +1,1 @@
-# Left-Rotation-DS
+# Left-Rotation-DS.This code rotates an array arr to the left d times by splitting the array at index d and concatenating the two parts. The Main method reads input, calls rotateLeft, and prints the resulting rotated array as a space-separated string.
